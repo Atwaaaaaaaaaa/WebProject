@@ -1,0 +1,12 @@
+C:\Users\marza\OneDrive\Desktop\CompanyProject\Company.DAL\bin\Debug\net8.0\Company.DAL.deps.json
+C:\Users\marza\OneDrive\Desktop\CompanyProject\Company.DAL\bin\Debug\net8.0\Company.DAL.dll
+C:\Users\marza\OneDrive\Desktop\CompanyProject\Company.DAL\bin\Debug\net8.0\Company.DAL.pdb
+C:\Users\marza\OneDrive\Desktop\CompanyProject\Company.DAL\obj\Debug\net8.0\Company.DAL.csproj.AssemblyReference.cache
+C:\Users\marza\OneDrive\Desktop\CompanyProject\Company.DAL\obj\Debug\net8.0\Company.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marza\OneDrive\Desktop\CompanyProject\Company.DAL\obj\Debug\net8.0\Company.DAL.AssemblyInfoInputs.cache
+C:\Users\marza\OneDrive\Desktop\CompanyProject\Company.DAL\obj\Debug\net8.0\Company.DAL.AssemblyInfo.cs
+C:\Users\marza\OneDrive\Desktop\CompanyProject\Company.DAL\obj\Debug\net8.0\Company.DAL.csproj.CoreCompileInputs.cache
+C:\Users\marza\OneDrive\Desktop\CompanyProject\Company.DAL\obj\Debug\net8.0\Company.DAL.dll
+C:\Users\marza\OneDrive\Desktop\CompanyProject\Company.DAL\obj\Debug\net8.0\refint\Company.DAL.dll
+C:\Users\marza\OneDrive\Desktop\CompanyProject\Company.DAL\obj\Debug\net8.0\Company.DAL.pdb
+C:\Users\marza\OneDrive\Desktop\CompanyProject\Company.DAL\obj\Debug\net8.0\ref\Company.DAL.dll
